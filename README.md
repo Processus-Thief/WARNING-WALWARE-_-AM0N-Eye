@@ -1,3 +1,11 @@
+!!! WARNING !!!
+
+This fork is for educational purpose only
+This repository has been publicly accessible but it seems to contain some malware, so USE WITH CAUTION !
+
+
+----------------------------
+
 # AM0N-Eye
 The most focused point for the development is the collection of projects for the Cobaltsetrike and making it an essential feature without the need for me to add it every time.
 AM0N-Eye is the most advanced Red Team & Adversary Simulation Software in the current C2 Market. It can not only emulate different stages of an attacker killchain, but also provide a systematic timeline and graph for each of the attacks executed to help the Security Operations Team validate the attacks and improve the internal defensive mechanisms. AM0N-Eye comes prebuilt with several opsOpec features which can ease a Red Team’s task to focus more on the analytical part of an engagement instead of focusing or depending on Open source tools for post-exploitation. AM0N-Eye is a post-exploitation C2 in the end and however does not provide exploit generation features like metasploit or vulnerability scanning features like Nessus, Acunetix or BurpSuite. AM0N-Eye is a project based on a combination of different ideas and projects used by the threat actor where we observe a set of techniques to evasion EDR and AV while allowing the operator to continue using the tools The C2 standard is specifically designed to succeed in mature environments. Note here that they each have something that sets them apart, such as c2-backed shadow dedicated to Liunx and MacOS, brute ratel and its ability to evasion defensive machines,and also Sliver that support C2 over Mutual TLS (mTLS), WireGuard, HTTP(S), and DNS and are dynamically compiled with per-binary asymmetric encryption keys. Of course, I do not forget Cobaltsetrike, which is the most exploited here because it is the basis of this environment, especially the project that was uploading in the script console and it was the best environment to modify it and add all these features. So what if we combined all these features in one environment that works  With the mechanism together, with basic ttps added in any APT attack, and here I will know some TTPs of AM0N-Eye, but not all.
